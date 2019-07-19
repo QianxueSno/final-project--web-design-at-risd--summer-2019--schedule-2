@@ -1,0 +1,7 @@
+#container {
+   width: 768px;
+}
+
+#container {
+   width: calc(9 * var(--grid-unit));
+}

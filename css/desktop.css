@@ -1,7 +1,9 @@
-#container {
-   width: 768px;
-}
+@media (min-width: 768px) {
+   #container {
+      width: 80%;
+   }}
 
-#container {
-   width: calc(9 * var(--grid-unit));
-}
+@media (max-width: 1024px) {
+   #container {
+      width: 100%;
+   }}

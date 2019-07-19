@@ -319,6 +319,7 @@ header p {
    height: 90px;
    top: 5500px;
    margin-bottom: 30px;
+   left: 80px;
 }
 
 footer p {
@@ -330,17 +331,4 @@ footer p {
    text-align: right;
    font-family: 'Darker Grotesque', sans-serif;
    letter-spacing: 2px;
-}
-
-main .about p {
-   position: fixed;
-   height: 100px;
-   color: #6fbc45;
-   font-size: 20px;
-   left: 920px;
-   text-align: left;
-   writing-mode: vertical-rl;
-   font-family: 'Open Sans', sans-serif;
-   top: 100px;
-   z-index: 900;
 }

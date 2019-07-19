@@ -56,8 +56,8 @@ header h1 {
    position: fixed;
    height: 900px;
    color: white;
-   font-size: 30px;
-   margin-left: 1270px;
+   font-size: 80px;
+   margin: auto;
    text-align: left;
    writing-mode: vertical-rl;
    text-orientation: upright;
@@ -327,8 +327,7 @@ footer p {
    color: #ff1eef;
    width: auto;
    z-index: 900;
-   text-align: left;
-   margin-left: 20px;
+   text-align: right;
    font-family: 'Darker Grotesque', sans-serif;
    letter-spacing: 2px;
 }
@@ -341,18 +340,6 @@ main .about p {
    left: 920px;
    text-align: left;
    writing-mode: vertical-rl;
-   font-family: 'Open Sans', sans-serif;
-   top: 100px;
-   z-index: 900;
-}
-
-.about p {
-   position: fixed;
-   height: 100px;
-   color: #6fbc45;
-   font-size: 20px;
-   left: 920px;
-   text-align: left;
    font-family: 'Open Sans', sans-serif;
    top: 100px;
    z-index: 900;
